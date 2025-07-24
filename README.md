@@ -5,8 +5,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=4000&pause=1000&color=22D3EE&center=true&vCenter=true&width=500&lines=Hi+there+👋,+I'm+Vishal+Devre;Full+Stack+Developer;+AI+%26+Data+Student+Engineer;2nd+Year+BTech+(AIDS);Open+Source+Contributor" alt="Typing SVG" />
 </p>
 
-  <br />
-  <img src="https://komarev.com/ghpvc/?username=vishalganesh7&label=Profile+Views&color=blueviolet&style=flat" alt="Profile Views"/>
 </div>
 
 ---
