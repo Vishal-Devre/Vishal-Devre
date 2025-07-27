@@ -59,7 +59,7 @@
 ### 🛠️ DevOps & Tools
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=docker,aws,gcp,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=docker,aws,gcp,git,github,vscode,netlify,vercel,photoshop,wordpress,git" />
 </div>
 
 ---
