@@ -83,7 +83,7 @@
 
 | Website | Description | Tech Stack | Live |
 |--------|-------------|------------|------|
-| [Vishal's Portfolio](https://portfoliovd-five.vercel.app) | My personal developer portfolio showcasing skills, projects, and journey | React, Vite, Tailwind CSS | [Visit Site](https://portfoliovd.vercel.app) |
+| [Vishal's Portfolio](https://vishaldevre-portfolio.vercel.app) | My personal developer portfolio showcasing skills, projects, and journey | React, Vite, Tailwind CSS | [Visit Site](https://vishaldevre-portfolio.vercel.app) |
 
 ---
 ---
