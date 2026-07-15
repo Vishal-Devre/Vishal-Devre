@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 Hi, I'm Vishal Devre
+# Hi, I'm Vishal Devre
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3500&pause=1000&color=22D3EE&center=true&vCenter=true&width=750&lines=Applied+AI+Engineer;Generative+AI+%7C+Agentic+AI+Developer;Full+Stack+AI+Developer;Building+Intelligent+AI+Applications;Open+Source+Contributor" />
 
