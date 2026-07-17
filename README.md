@@ -280,7 +280,7 @@ class VishalDevre:
 </picture>
 
 </div>
-## Tech Focus
+<h1>Tech Focus</h1>
 
 <div align="center">
 
