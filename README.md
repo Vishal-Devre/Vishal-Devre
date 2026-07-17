@@ -269,7 +269,17 @@ class VishalDevre:
 <p align="center">
 <img src="https://user-images.githubusercontent.com/74038190/212897597-fb9fbe74-69f8-4f5f-87c0-5ac3735c64f3.gif" width="100%"/>
 </p>
+<div align="center">
 
+<picture>
+  <source media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/Akash-1512/Akash-1512/output/github-contribution-grid-snake-dark.svg"/>
+  <source media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/Akash-1512/Akash-1512/output/github-contribution-grid-snake.svg"/>
+  <img src="https://raw.githubusercontent.com/Akash-1512/Akash-1512/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Contribution snake"/>
+</picture>
+
+</div>
 ## Tech Focus
 
 <div align="center">
